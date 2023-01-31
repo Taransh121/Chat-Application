@@ -1,0 +1,2 @@
+Web socket helps us to create a two way connection between client and server so that client can also send data to server . This helps a lot in Real time applications. 
+We will implement this using NodeJS's Socket.IO , It is a Javascript library for realtime web applications.Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
